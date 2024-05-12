@@ -1,4 +1,4 @@
-#Case Classificando bebidas
+Case Classificando bebidas
 
 Atributos
 bebida: nome da bebida.
